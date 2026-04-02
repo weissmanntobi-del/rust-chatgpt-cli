@@ -1,3 +1,5 @@
 .idea/.gitignore
+.idea/vcs.xml
+target/
 .idea/chatgpt-cli-rs.iml
 .idea/modules.xml
