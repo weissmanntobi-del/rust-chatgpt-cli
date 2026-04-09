@@ -1,4 +1,4 @@
-## Rust Backend Engineer Bundle: https://tobiweissmann.gumroad.com/l/lfajd
+## Rust Complete Material: https://tobiweissmann.gumroad.com/l/gnuvxu
 # rust-chatgpt-cli 
 
 A simple and practical Rust-based CLI demo for interacting with ChatGPT from the terminal.
